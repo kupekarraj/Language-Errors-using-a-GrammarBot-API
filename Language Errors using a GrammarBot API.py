@@ -32,7 +32,7 @@ browser = webdriver.Chrome(ChromeDriverManager().install())
 url = "https://grammarbot.p.rapidapi.com/check"
 headers = {
     "content-type": "application/x-www-form-urlencoded",
-    "X-RapidAPI-Key": "a4aa62e190mshd78fa7329fec47bp1cbb9ejsnd7dcc93af818",
+    "X-RapidAPI-Key": "a4aa62e190mshd7",
     "X-RapidAPI-Host": "grammarbot.p.rapidapi.com"
 }
 
